@@ -14,3 +14,8 @@
   justify-content:center;
   position:relative;
 }
+
+.container img{
+  width:95%;
+  height:100vh;
+}
